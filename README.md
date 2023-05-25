@@ -1,6 +1,6 @@
 # EduCeylon: PHP Web Application for Online LMS Website
 
-The Learning Management System is a comprehensive PHP web application developed as a university project. It serves as an online platform for managing and delivering educational content, providing a centralized hub for students, teachers, and administrators to interact, collaborate, and engage in effective online learning. Developed with a focus on usability and functionality, this Learning Management System offers a seamless and feature-rich experience for all users.
+Edu Ceylon PHP web application developed as a client project. It serves as an online platform for managing and delivering educational content, providing a centralized hub for students, teachers, and administrators to interact, collaborate, and engage in effective online learning. Developed with a focus on usability and functionality, this Learning Management System offers a seamless and feature-rich experience for all users.
 
 Key Features:
 
